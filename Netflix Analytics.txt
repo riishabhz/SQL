@@ -1,6 +1,5 @@
-#  "This project utilized data from the Netflix database stored at http://sqlfiddle.com/#!17/7dae0/"
+ http://sqlfiddle.com/#!17/7dae0/"
 
-# The project was written using the PostgreSQL dialect and utilized data from the following two Netflix datasets:
 
 
 CREATE TABLE  netflix_titles_info
